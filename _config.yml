@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Samus Open Lab Notebook
+name: JDL Lab Notebook
 
 # Short bio or description (displayed in the header)
-description: Sophi's online lab notebook 
+description: Jonathan's online lab notebook 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/Samus_Lab_Notebook/images/profilePic_Samus.jpg"
+avatar: "\Users\ilove\OneDrive\Pictures\Jonathan's Pictures\whaleshark"
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: "/Samus_Lab_Notebook/images/profilePic_Samus.jpg"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ssamus1@my.hpu.edu
+  email: jdlin@my.hpu.edu
   facebook:
   flickr:
-  github: SophiSamus1
+  github: jdlin131
   instagram:
   linkedin:
   pinterest:
@@ -41,13 +41,13 @@ google_analytics: UA-84132736-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://sophisamus1.github.io"
+url: "https://jdlin131.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Samus_Lab_Notebook"
+baseurl: "/JDL_Lab_Notebook"
 
 #
 # !! You don't need to change any of the configuration flags below !!
